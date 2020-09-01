@@ -1,0 +1,8 @@
+C:\Users\User-100\Desktop\TestTask2DrawFigures\TestTask2DrawFigures\bin\Release\TestTask2DrawFigures.exe
+C:\Users\User-100\Desktop\TestTask2DrawFigures\TestTask2DrawFigures\bin\Release\TestTask2DrawFigures.pdb
+C:\Users\User-100\Desktop\TestTask2DrawFigures\TestTask2DrawFigures\obj\Release\ResolveAssemblyReference.cache
+C:\Users\User-100\Desktop\TestTask2DrawFigures\TestTask2DrawFigures\obj\Release\TestTask2DrawFigures.Properties.Resources.resources
+C:\Users\User-100\Desktop\TestTask2DrawFigures\TestTask2DrawFigures\obj\Release\TestTask2DrawFigures.DrawFigures.resources
+C:\Users\User-100\Desktop\TestTask2DrawFigures\TestTask2DrawFigures\obj\Release\TestTask2DrawFigures.csproj.GenerateResource.Cache
+C:\Users\User-100\Desktop\TestTask2DrawFigures\TestTask2DrawFigures\obj\Release\TestTask2DrawFigures.exe
+C:\Users\User-100\Desktop\TestTask2DrawFigures\TestTask2DrawFigures\obj\Release\TestTask2DrawFigures.pdb
